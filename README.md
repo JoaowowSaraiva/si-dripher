@@ -10,5 +10,6 @@ Some of the comments are in Portuguese but it will be changed as soon as possibl
 
 # **2. Installation and usability**
 
-Our project have a *Makefile* with it you can install, compile, run _**dripher**_ (project name)
-Our pro
+-Our project have a *Makefile* with it you can install, compile, run _**dripher**_, you can also clean some files with it.
+
+-Our pro 
