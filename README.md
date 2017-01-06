@@ -8,7 +8,7 @@ This project aims to implement a simple application for encryption and decryptio
 
 Some of the comments are in Portuguese but it will be changed as soon as possible
 
-## **2. Installation and usability**
+## **2. Installation, usability and how it works**
 
 - Our project have a *Makefile* with it you can install, compile and run _**dripher**_, you can also clean some files with it or read his info by doing _make info_ on your terminal.
 
@@ -20,6 +20,10 @@ Some of the comments are in Portuguese but it will be changed as soon as possibl
 
   Thit is basically what you need to install _**dripher**_.
   
-### **2.2 Usability**
+### **2.2 Usability and how it works**
 
- 
+* Do _**make run**_ to run **_dripher_**
+
+* To use it, you should drag and drop files to the folders: _Encrypt, Decrypt, Digest, Integrity, Sign, Verify_ because these are the folders that the program monitors. The 
+
+
