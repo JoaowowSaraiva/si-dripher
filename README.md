@@ -18,5 +18,5 @@ Some of the comments are in Portuguese but it will be changed as soon as possibl
 
 * By typing _**make install**_ your program will get everything you need. It will create the folders that the program use and it will compile the sources.
 
-  Thats pretty much what you need to install _**dripher_**
+  Thats pretty much what you need to install _**dripher**_
   
