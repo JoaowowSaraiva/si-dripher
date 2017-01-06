@@ -41,6 +41,4 @@ Some of the comments are in Portuguese but it will be changed as soon as possibl
 - Dripher uses _sha 256_ to calculate hash value from files
 
 
-ps: dripher still has a lot of bugs to be fixed. This is just the beginning! 
- 
- 
+ps: dripher still has a lot of bugs to be fixed. This is just the beginning!
