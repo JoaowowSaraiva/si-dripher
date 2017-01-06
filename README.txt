@@ -5,3 +5,6 @@ This project aims to implement a simple application for encryption and decryptio
 
 Some of the comments are in Portuguese but it will be changed as soon as possible
 
+********************** Installation and usability **********************
+Our project have a *Makefile* with it you can install, compile, run **dripher** (project name)
+Our pro
