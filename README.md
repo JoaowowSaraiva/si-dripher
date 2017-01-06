@@ -22,8 +22,9 @@ Some of the comments are in Portuguese but it will be changed as soon as possibl
   
 ### **2.2 Usability and how it works**
 
-* Do _**make run**_ to run **_dripher_**
+ - Do _**make run**_ to run **_dripher_**
 
-* To use it, you should drag and drop files to the folders: _Encrypt, Decrypt, Digest, Integrity, Sign, Verify_ because these are the folders that the program monitors. The 
+
+* To use it, you should drag and drop files to the folders: _Encrypt, Decrypt, Digest, Integrity, Sign, Verify_ because these are the folders that the program monitors. Output folders are all the other's in the  
 
 
