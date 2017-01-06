@@ -15,3 +15,6 @@ Some of the comments are in Portuguese but it will be changed as soon as possibl
 -Our program sources is the file named dripher.c
 
 ### **2.1 Installation**
+
+- By typing _**make install**_ your program will get everything you need. It will create the folders that the program use and it will compile the sources.
+
