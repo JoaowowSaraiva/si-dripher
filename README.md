@@ -10,6 +10,8 @@ Some of the comments are in Portuguese but it will be changed as soon as possibl
 
 # **2. Installation and usability**
 
--Our project have a *Makefile* with it you can install, compile, run _**dripher**_, you can also clean some files with it.
+-Our project have a *Makefile* with it you can install, compile and run _**dripher**_, you can also clean some files with it or read his info by doing _make info_ on your terminal.
 
--Our pro 
+-Our program sources is the file named dripher.c
+
+## **2.1 Installation**##
